@@ -1,0 +1,14 @@
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\bin\Debug\ClubDB.mdf
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\bin\Debug\ClubDB_log.ldf
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\bin\Debug\07 Laboratory Exercise 1.exe.config
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\bin\Debug\07 Laboratory Exercise 1.exe
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\bin\Debug\07 Laboratory Exercise 1.pdb
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\07 Laboratory Exercise 1.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\07 Laboratory Exercise 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\_07_Laboratory_Exercise_1.FrmClubRegistration.resources
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\_07_Laboratory_Exercise_1.FrmUpdateMember.resources
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\_07_Laboratory_Exercise_1.Properties.Resources.resources
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\07 Laboratory Exercise 1.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\07 Laboratory Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\07 Laboratory Exercise 1.exe
+C:\Users\Jordan\source\repos\07 Laboratory Exercise 1\07 Laboratory Exercise 1\obj\Debug\07 Laboratory Exercise 1.pdb
